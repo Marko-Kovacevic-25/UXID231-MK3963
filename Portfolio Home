@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, viewport-fit=cover"
+        />
+        <title>Marko Kovacevic Design</title>
+    </head>
+    <body>
+        <header>
+            <h1>Marko Kovacevic Design</h1>
+            <nav aria-label="Primary">
+                <a href="Home.html">Home</a>
+                <a href="AboutMe.html">About Me</a>
+                <a href="Contact.html">Contact</a>
+            </nav>
+        </header>
+        <main>
+            <h1>Projects</h1>
+                <section>
+                <h2>Martin Puryear Exhibition poster</h2>
+                    <h3>This poster was designed to promote a fictional art exhibition for the artist Martin Puryear. Reimagining the textures and forms of the artist's work as typographic forms. Created as part of Drexel University's Typography I class.</h3>
+                        <h4>December 2024</h4>
+                </section>
+                <section>
+                <h2>SHOUT! magazine concept</h2>
+                    <h3>SHOUT! is a fictional magazine created as part of the Publication Design class at Drexel. The main focus was on pop culture and politics. Sought to capture the public discussion and put it into pages. SHOUT!’s brand built upon strong contrasts in the scale in typography, bold color and playful illustrations inspired by political satire.</h3>
+                        <h4>June 2025</h4>
+                </section>
+                <section>
+                <h2>Theatre Exile rebranding</h2>
+                    <h3>This project was to reinvent the local Theatre Exile company. This focused on capturing the avant-garde and unconventional personality of the company. Created as part of Drexel University's Logo Design class.</h3>
+                        <h4>March 2025</h4>
+                </section>
+                <section>
+                <h2>Philadelphia Fringe Festival poster</h2>
+                    <h3>This series of posters was created with the fictitious premise of promoting a local film festival. The intent was to reflect the artistic nature and unorthodox personality of both the films and the festival as a whole. Created as part of Drexel University's Typography II class.</h3>
+                        <h4>March 2025</h4>
+                </section>
+                <section>
+                <h2>McMaster-Carr website redesign</h2>
+                    <h3>This project was to completely redesign the website of McMaster-Carr; an e-commerce hardware retailer that offers 700,000 products. The new layout was based on AI-driven user behavior analysis and surveys to enhance readability and navigation. It has refined graphics and typography made with Figma and AI-assisted tools. Strengthening brand identity and optimized product discovery. Created as part of Drexel University's Web Graphics II class.</h3>
+                        <h4>March 2025</h4>
+                </section>
+                <section>
+                <h2>Coalecence concert poster</h2>
+                    <h3>Created to promote a musical performance by students at Tamagawa University in Kawasaki, Japan. Themed on multiple simple elements coming together to form something complex. Part of Tamagawa's Group Arts class.</h3>
+                        <h4>July 2024</h4>
+                </section>
+                <section>
+                <h2>Cold Steel photo series</h2>
+                    <h3>This series of photos was taken with the goal of exploring industrial objects as art. They deliberately make it difficult to discern what the object’s function might be, so that the viewer might approach it from an original angle. Created as part of Drexel University's Photography II class.</h3>
+                        <h4>March 2025</h4>
+                </section>
+                <section>
+                <h2>Illustration work</h2>
+                    <h3>Examples of my work in illustration. Most were personal projects and/or studies.</h3>
+                </section>
+        </main>
+        <footer>
+            <h1>Marko Kovacevic Design</h1>
+            <nav aria-label="Secondary">
+                <a href="Home.html">Home</a>
+                <a href="AboutMe.html">About Me</a>
+                <a href="Contact.html">Contact</a>
+            <h2>
+                Email - mk3963@drexel.edu
+                Phone - (412) 699-9965
+                Linkdin - <a href="https://www.linkedin.com/in/marko-kovacevic-design/">https://www.linkedin.com/in/marko-kovacevic-design/</a>
+            </h2>
+        </footer>
+    </body>
+</html>
