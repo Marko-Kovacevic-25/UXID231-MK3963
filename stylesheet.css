@@ -24,8 +24,10 @@ Nav a {
 }
 
 .image-gallery body {
-    /* appearance of text inside the gallery cards
+    /* appearance of text inside the gallery cards */
 }
+
+/* hover states down here */
 
 h2:hover {
     /* appearance of the headers when hovering over them to open up a specific gallery */
