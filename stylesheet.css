@@ -1,0 +1,40 @@
+body {
+    /*body text, will use and off-black serif, also applies to footer */
+}
+
+h1,
+h2 {
+    /*  heading types share most of their sylings, bold sans serif. */
+}
+
+a {
+    /* appearance of default links (contact page, footer) */
+}
+
+Nav a {
+    /* appearance of the nac links */
+}
+
+#title {
+    /* appearance of the big "marko kovacevic design" in the pages' headers */
+}
+
+.Image-gallery {
+    /* appearance of the side scrolling image blocks */
+}
+
+.image-gallery body {
+    /* appearance of text inside the gallery cards
+}
+
+h2:hover {
+    /* appearance of the headers when hovering over them to open up a specific gallery */
+}
+
+a:hover {
+    /* appearance of the links when hovering over them */
+}
+
+Nav a:hover {
+    /* appearance of the nav links when hovering over them */
+}
