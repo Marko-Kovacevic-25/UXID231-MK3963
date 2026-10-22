@@ -7,12 +7,26 @@ h2 {
     /*  heading types share most of their sylings, bold sans serif. */
 }
 
+h2:hover {
+    /* appearance of the headers when hovering over them to open up a specific gallery */
+}
+
+/* anchor stuff */
+
 a {
     /* appearance of default links (contact page, footer) */
 }
 
+a:hover {
+    /* appearance of the links when hovering over them */
+}
+
 nav a {
     /* appearance of the nac links */
+}
+
+nav a:hover {
+    /* appearance of the nav links when hovering over them */
 }
 
 #title {
@@ -27,16 +41,4 @@ nav a {
     /* appearance of text inside the gallery cards */
 }
 
-/* hover states down here */
 
-h2:hover {
-    /* appearance of the headers when hovering over them to open up a specific gallery */
-}
-
-a:hover {
-    /* appearance of the links when hovering over them */
-}
-
-nav a:hover {
-    /* appearance of the nav links when hovering over them */
-}
