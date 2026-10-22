@@ -11,7 +11,7 @@ a {
     /* appearance of default links (contact page, footer) */
 }
 
-Nav a {
+nav a {
     /* appearance of the nac links */
 }
 
@@ -37,6 +37,6 @@ a:hover {
     /* appearance of the links when hovering over them */
 }
 
-Nav a:hover {
+nav a:hover {
     /* appearance of the nav links when hovering over them */
 }
