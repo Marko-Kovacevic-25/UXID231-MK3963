@@ -1,9 +1,9 @@
 :root {
     --color-background: #d9e1e4;
     --color-foreground: #292e33;
+    --font-size-h1: 38px;
+    --font-size-h2: 18px;
     --font-size-p: 16px;
-    --font-size-h1: 18px;
-    --font-size-h2: 38px;
 }
 
 body {
@@ -65,7 +65,7 @@ nav a:focus-visible{
     color: var(--color-foreground);
 }
 
-.Image-gallery {
+.image-gallery {
     background-color: var(--color-background);
 }
 
