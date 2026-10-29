@@ -1,44 +1,72 @@
-body {
-    /*body text, will use and off-black serif, also applies to footer */
+:root {
+    --color-background: #d9e1e4;
+    --color-foreground: #292e33;
+    --font-size-p: 16px;
+    --font-size-h1: 18px;
+    --font-size-h2: 38px;
 }
 
-h1,
+body {
+    background-color: var(--color-background);
+}
+
+h1 {
+   color: var(--color-foreground);
+    font-size: var(--font-size-h1);
+}
+
 h2 {
-    /*  heading types share most of their sylings, bold sans serif. */
+    color: var(--color-foreground);
+    font-size: var(--font-size-h2);
 }
 
 h2:hover {
-    /* appearance of the headers when hovering over them to open up a specific gallery */
+    color: var(--color-foreground);
+    font-size: var(--font-size-h2);
+}
+
+p {
+    color: var(--color-foreground);
+    font-size: var(--font-size-p);
+
 }
 
 /* anchor stuff */
 
 a {
-    /* appearance of default links (contact page, footer) */
+    color: var(--color-foreground);
 }
 
 a:hover {
-    /* appearance of the links when hovering over them */
+    color: var(--color-foreground);
+}
+
+a:focus-visible{
+    color: var(--color-foreground);
+    outline: 2px solid var(--color-foreground);
+    outline-offset: 3px;
 }
 
 nav a {
-    /* appearance of the nac links */
+    color: var(--color-foreground);
 }
 
 nav a:hover {
-    /* appearance of the nav links when hovering over them */
+    color: var(--color-foreground);
+}
+
+nav a:focus-visible{
+    color: var(--color-foreground);
+    outline: 2px solid var(--color-foreground);
+    outline-offset: 3px;
 }
 
 #title {
-    /* appearance of the big "marko kovacevic design" in the pages' headers */
+    color: var(--color-foreground);
 }
 
 .Image-gallery {
-    /* appearance of the side scrolling image blocks */
-}
-
-.image-gallery body {
-    /* appearance of text inside the gallery cards */
+    background-color: var(--color-background);
 }
 
 
