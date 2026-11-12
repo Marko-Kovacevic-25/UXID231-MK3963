@@ -34,12 +34,15 @@
 
 /* headers and body styles */
 
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color: var(--color-background);
     font-family: montserrat, var(--system-ui);
     font-size: var(--font-size-body);
     line-height: 1.25;
-    box-sizing: border-box;
     max-width: 70rem;
 }
 
