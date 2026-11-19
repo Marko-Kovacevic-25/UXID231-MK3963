@@ -80,6 +80,14 @@ nav {
     text-decoration: none;
 }
 
+nav ul {
+    display:flex;
+    flex-direction: column;
+    gap: .5rem;
+    padding: 0;
+    margin: 0;
+}
+
 .h2nav {
     color: var(--color-background);
     font-size: var(--font-size-medium);
@@ -111,7 +119,7 @@ nav a {
     color: var(--color-background);
     font-size: var(--font-size-body);
     text-decoration: none;
-
+    gap: 12rem
 }
 
 nav a:hover {
@@ -133,7 +141,6 @@ nav a:focus-visible{
     font-size: var(--font-size-large);
     text-decoration: none;
     font-weight: 700;
-
 }
 
 header {
@@ -158,7 +165,7 @@ footer {
 }
 
 .scroll {
-    margin-inline: auto;
+    display: flex;
     overflow-x: auto;
     gap: 2rem;
 }
@@ -173,4 +180,26 @@ hr {
     border: none;
     height: 2px;
     background-color: var(--color-background);
+}
+
+.contactinfo {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    gap: .5rem;
+    margin: 0rem;
+    padding: 0;
+    padding-top: 2rem;
+}
+
+ul li {
+    text-align: right;
+}
+
+.topnav {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    margin: 0;
+    padding: 0;
 }
